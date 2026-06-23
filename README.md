@@ -8,24 +8,23 @@
 ## Habilidades
 - Desenvolvimento de jogo pela plataforma RayLib em Linguagem C
 - links para repositório
+- CISCO Network
 
 ## Atitudes
-- Organizada
-- Proativa
+- Organização
+- Proatividade
 - Liderança
 - Trabalho em Equipe
 
 ## Objetivos
-- Frontend (UX)
+- Frontend
 - Backend
-- Mobile
+- C++
 
+## Onde você quer trabalhar?
+- Desvolvimento de Software
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Metas
+- Curso durante as férias de inverno para aprofundamento da linguagem C
+- Curso introdutório de JavaScript
+- BootCamp Santander para aprendizado FullStack
