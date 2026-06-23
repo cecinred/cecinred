@@ -1,34 +1,3 @@
-# Teste
-
-## Competências
-- Introdução à Computação
-- Lógica de Programação
-- Algoritmo e Lógica de Programação - Linguagem C
-
-## Habilidades
-- Desenvolvimento de jogo pela plataforma RayLib em Linguagem C
-- links para repositório
-- CISCO Network
-
-## Projetos Acadêmicos
-- Desenvolvimento de jogo pela plataforma RayLib em Linguagem C
-- 
-
-## Atitudes
-- Organização
-- Proatividade
-- Liderança
-- Trabalho em Equipe
-
-## Objetivos
-- Frontend
-- Backend
-- C++
-
-## Onde você quer trabalhar?
-- Desvolvimento de Software
-
-
 # Cecilia Alemi
 Estudante de **Engenharia de Software no IDP (Brasília)**, atualmente no 1º semestre.
 
@@ -44,8 +13,9 @@ Estudante de **Engenharia de Software no IDP (Brasília)**, atualmente no 1º se
 
 ### Atitudes
 - Organizada.
-- Trabalho em equipe.
+- Proatividade.
 - Liderança.
+- Trabalho em Equipe.
 
 ### Objetivo
 - Desenvolver minhas competências e habilidades em Engenharia de Software, buscando trabalhar na área de Análise de Dados.
@@ -65,5 +35,3 @@ Estudante de **Engenharia de Software no IDP (Brasília)**, atualmente no 1º se
 ### Como me encontrar:
 - **LinkedIn:** [linkedin.com/in/cecilialemi](https://www.linkedin.com/in/cecilialemi/)
 - **E-mail:** cecili.alemis@gmail.com
-
-
