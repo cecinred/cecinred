@@ -1,4 +1,5 @@
-#
+# Teste
+
 ## Competências
 - Introdução à Computação
 - Lógica de Programação
@@ -13,11 +14,12 @@
 - Proativa
 - Liderança
 - Trabalho em Equipe
-- 
-<!--
-**cecinred/cecinred** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Objetivos
+- Frontend (UX)
+- Backend
+- Mobile
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -27,4 +29,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
